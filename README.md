@@ -9,37 +9,13 @@
 ## 🔭 경력
 - 솔루션 엔지니어 - (주)이온아이티 기술지원팀 (2016.10 - 2023.2)
 
-## ⚡ Community Activities
-- Admin of a SLAM research community group: [**'We will be SLAM masters'**](https://open.kakao.com/o/g8T5kxLb)
-- Personal research blog (Korean): [**cv-learn blog**](https://www.cv-learn.com)
+## ⚡ 활동
+- 메디치 13기 어트랙션 기반 VR/AR 콘텐츠 개발 과정(2023.5 ~ 2023.9) : [**메디치 교육센터**](https://www.medici-edu.co.kr:5000/)
+- IOT 를 이용한 자바엔터프라이즈 개발자 과정(2016.6 ~ 2016.10) : [**청년취업아카데미**](https://www.hrd4u.or.kr/hrd4u/main.do)
 
-## 📫 Contacts
-- LinkedIn: [Link](https://www.linkedin.com/in/hyunggi-chang/)
-- Facebook: [Link](https://www.facebook.com/harry.chang.982/)
+![HwangAJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJin-122&count_private=true&show_icons=true&theme=dark)
 
-<!--
-**changh95/changh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![changh95's GitHub stats](https://github-readme-stats.vercel.app/api?username=changh95&count_private=true&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changh95&exclude_repo=changh95.github.io,changh95.github.io-legacyblog_source,changh95,&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![profile_view_counter](https://komarev.com/ghpvc/?username=changh95)
-![HwangAJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJin-122&show_icons=true&theme=dark)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJin-122&layout=compact)
 
 <!--
 **AJin-122/Ajin-122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
